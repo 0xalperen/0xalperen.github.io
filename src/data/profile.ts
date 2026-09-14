@@ -17,7 +17,7 @@ export const profile = {
   about:
     "Alongside my studies, I build projects to understand systems in depth, from the software itself to the infrastructure it runs on. I care about code that is clear enough to come back to and make sense of.",
   elsewhere: [
-    { label: "GitHub", href: "https://github.com/alperencodes" },
+    { label: "GitHub", href: "https://github.com/0xalperen" },
     {
       label: "LinkedIn",
       href: "https://www.linkedin.com/in/alperen-yilmaz-dev/",
